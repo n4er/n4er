@@ -1,34 +1,106 @@
-<h1 align="center">Hi 👋, I'm Nasser Al-Musalhi</h1>
-<h3 align="center">As an Artificial Intelligence student at GUtech, I’ve built a strong foundation in software engineering, backend development, and AI/ML applications. I’ve gained hands-on experience through internships at OQ SAOC in IDS & Digital Transformation and at Rihal, where I worked on backend development and API integration. My passion lies in designing intelligent systems that solve real-world challenges, from AI-powered itinerary generators and accident risk mapping to data-driven research projects. With a growing portfolio of full-stack and AI projects, I’m driven to bridge innovation and practical impact.</h3>
+# Hi 👋, I'm nsns
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4er" alt="n4er" /></a> </p>
+🚀 Aspiring Software Engineer | AI Enthusiast | Backend Developer  
 
-- 🔭 I’m currently working on [Movie App](https://github.com/n4er/react-movie-app)
+I'm a Computer Science student with hands-on experience in backend development, APIs, and AI-driven applications. I’ve worked on exciting projects such as **Tajawal – AI Itinerary Generator**, **Database Course Documentation**, and **AI Road Safety Risk Mapping in Oman**.  
+Previously, I interned at **OQ SAOC (IDS & Digital Transformation)** and **Rihal**, gaining real-world exposure to backend engineering, testing, and digital transformation.  
 
-- 🌱 I’m currently learning **REACT, .NET, GASP**
+💡 Passionate about building scalable solutions that merge technology with impactful real-world applications.  
 
-- 👯 I also collaborated on [Tajwal Itinerary App](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/n4er](https://github.com/n4er)
+## 🏆 Experience
 
-- 💬 Ask me about **Javascipt, Python, PostgreSQL**
+- **OQ SAOC – IDS & Digital Transformation Intern**  
+  Worked on infrastructure and AI-related tasks, contributing to digital transformation initiatives.  
 
-- 📫 How to reach me **nasser432243@gmail.com**
+- **Rihal – Software Engineer Intern**  
+  Focused on backend development, API integrations, and testing using Postman.  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nasser-almusalhi/](https://www.linkedin.com/in/nasser-almusalhi/)
+---
 
-- ⚡ Fun fact **I think I am decent at cofing.**
+## 🎓 Education
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nasser-almusalhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasser-almusalhi" height="30" width="40" /></a>
-<a href="https://instagram.com/n4e.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n4e.r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/qxqggo0fqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qxqggo0fqa" height="30" width="40" /></a>
+- **German University of Technology in Oman (GUtech)**  
+  Bachelor of Science in Computer Science (Artificial Intelligence track)  
+
+---
+
+## 🌟 Featured Projects
+
+- [Tajawal – AI Itinerary Generator](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project) 🗺️✈️  
+- [Movie Web App](https://github.com/n4er/react-movie-app)
+- [Forest Fire Classification](https://github.com/nsns/Forest-Fire-ML) 🌲🔥  
+
+---
+
+## 📜 Certificates & Achievements
+
+- **8-week Internship at OQ Oman** (IDS & Digital Transformation)  
+- **Backend Internship at Rihal**  
+- **Hackathon Participation & Presentations** at GUtech and industry partners  
+- **Academic Projects**: AI-based safety systems, database engineering, and software development  
+
+---
+
+## 📍 Location
+
+📌 Muscat, Oman
+🚀 Open to: Full-time opportunities, internships, and collaborative projects
+🎯 Interests: Software Engineering, Mobile Development, AI/ML
+
+---
+
+## ⚡ Area of Expertise & Content Focus
+
+- Backend Development (Java Spring Boot, APIs, Databases)  
+- Artificial Intelligence & Machine Learning (TensorFlow, recommendation systems, and API integrations)
+- Cloud & Containerization (PostgreSQL)  
+- Full-Stack Development (React, TypeScript, Node.js)  
+- Academic Research Documentation & Technical Writing  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,js,ts,html,css,python,git,github,idea,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4er&show_icons=true&locale=en&layout=compact" alt="n4er" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n4er&show_icons=true&locale=en" alt="n4er" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n4er&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4er&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4er&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nasser-almusalhi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/n4er"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
+  <a href="mailto:nasser432243@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 💬 Quote I Live By
+
+*"The best way to predict the future is to create it." – Peter Drucker*  
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nsns.nsns" alt="visitors"/>
+</p>
