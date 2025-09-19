@@ -10,14 +10,14 @@ As an Artificial Intelligence student at GUtech, I’ve built a strong foundatio
 
 ## 🏆 Experience
 
-**Software Engineer Intern | Rihal** | 2025 (2 Months)  
+**Software Engineer Intern** | Rihal | 2025 (2 Months)  
 - Participated in Rihal’s *Spark to Code* internship program.  
 - Worked on backend development, connecting APIs, and testing endpoints with Postman.  
 - Contributed to real-world software development projects in a collaborative team environment.  
 - Improved skills in debugging, API integration, and professional software engineering practices.  
 
 
-**AI & Digital Transformation Intern | OQ SAOC (IDS Department)** | 2024 (2 Months)  
+**AI & Digital Transformation Intern** | OQ SAOC (IDS Department) | 2024 (2 Months)  
 - Gained exposure to infrastructure systems and digital transformation initiatives.  
 - Assisted in AI-related research and internal solution development.  
 - Collaborated with industry mentors on digital innovation projects.  
