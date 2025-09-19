@@ -30,7 +30,7 @@ As an Artificial Intelligence student at GUtech, I’ve built a strong foundatio
 - **German University of Technology in Oman (GUtech)**  
   Bachelor of Science in Artificial Intelligence
 
-- **The Sultan's School**
+- **The Sultan's School** <br>
   IBDP (International Baccalaureate Diploma Programme)
 
 ---
