@@ -21,7 +21,7 @@ As an Artificial Intelligence student at GUtech, I’ve built a strong foundatio
 ## 🎓 Education
 
 - **German University of Technology in Oman (GUtech)**  
-  Bachelor of Science in Computer Science (Artificial Intelligence track)
+  Bachelor of Science in Artificial Intelligence
 
 - **The Sultan's School**
   IBDP (International Baccalaureate Diploma Programme)
