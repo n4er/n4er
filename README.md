@@ -2,8 +2,7 @@
 
 🚀 Aspiring Software Engineer | AI Enthusiast | Backend Developer  
 
-I'm a Computer Science student with hands-on experience in backend development, APIs, and AI-driven applications. I’ve worked on exciting projects such as **Tajawal – AI Itinerary Generator**, **Database Course Documentation**, and **AI Road Safety Risk Mapping in Oman**.  
-Previously, I interned at **OQ SAOC (IDS & Digital Transformation)** and **Rihal**, gaining real-world exposure to backend engineering, testing, and digital transformation.  
+As an Artificial Intelligence student at GUtech, I’ve built a strong foundation in software engineering, backend development, and AI/ML applications. I’ve gained hands-on experience through internships at OQ SAOC in IDS & Digital Transformation and at Rihal, where I worked on backend development and API integration. My passion lies in designing intelligent systems that solve real-world challenges, from AI-powered itinerary generators and accident risk mapping to data-driven research projects. With a growing portfolio of full-stack and AI projects, I’m driven to bridge innovation and practical impact.
 
 💡 Passionate about building scalable solutions that merge technology with impactful real-world applications.  
 
@@ -22,24 +21,23 @@ Previously, I interned at **OQ SAOC (IDS & Digital Transformation)** and **Rihal
 ## 🎓 Education
 
 - **German University of Technology in Oman (GUtech)**  
-  Bachelor of Science in Computer Science (Artificial Intelligence track)  
+  Bachelor of Science in Computer Science (Artificial Intelligence track)
+
+- **The Sultan's School**
+  IBDP (International Baccalaureate Diploma Programme)
 
 ---
 
 ## 🌟 Featured Projects
 
 - [Tajawal – AI Itinerary Generator](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project) 🗺️✈️  
-- [Movie Web App](https://github.com/n4er/react-movie-app)
-- [Forest Fire Classification](https://github.com/nsns/Forest-Fire-ML) 🌲🔥  
+- [Movie Web App](https://github.com/n4er/react-movie-app) 🍿🎬 
 
 ---
 
 ## 📜 Certificates & Achievements
 
-- **8-week Internship at OQ Oman** (IDS & Digital Transformation)  
-- **Backend Internship at Rihal**  
-- **Hackathon Participation & Presentations** at GUtech and industry partners  
-- **Academic Projects**: AI-based safety systems, database engineering, and software development  
+-****
 
 ---
 
