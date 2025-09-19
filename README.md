@@ -1,4 +1,4 @@
-# Hi 👋, I'm nsns
+# 👤 Nasser Bader Al-Musalhi
 
 🚀 Aspiring Software Engineer | AI Enthusiast | Backend Developer  
 
