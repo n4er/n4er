@@ -50,9 +50,9 @@ As an Artificial Intelligence student at GUtech, I’ve built a strong foundatio
 
 ## 📍 Location
 
-📌 Muscat, Oman
-🚀 Open to: Full-time opportunities, internships, and collaborative projects
-🎯 Interests: Software Engineering, Mobile Development, AI/ML
+📌 Muscat, Oman <br>
+🚀 Open to: Full-time opportunities, internships, and collaborative projects <br>
+🎯 Interests: Software Engineering, Mobile Development, AI/ML <br>
 
 ---
 
